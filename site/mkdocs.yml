@@ -1,0 +1,12 @@
+site_name: Сайт...
+site_url: https://igninsan.github.io/test_0702/
+
+
+nav:
+  - Home: index.md
+  - About: about.md
+
+
+
+theme:
+    name: kpn
