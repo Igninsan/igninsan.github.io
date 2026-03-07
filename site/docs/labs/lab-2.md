@@ -217,3 +217,5 @@ test.py::test_plot_line PASSED                                                  
 - Освоены основы работы с библиотекой NumPy 
 и построения графиков с помощью matplotlib и seaborn.
 - Реализованы операции с векторами и матрицами.
+
+[Ссылка на исходный код](https://github.com/Igninsan/igninsan.github.io/blob/main/code/numpy_lab/main.py)
