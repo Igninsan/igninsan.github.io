@@ -1,12 +1,17 @@
-site_name: Сайт...
-site_url: https://igninsan.github.io/test_0702/
-
+site_name: Портфолио
+site_url: https://igninsan.github.io/
 
 nav:
-  - Home: index.md
-  - About: about.md
-
-
+  - Главная страница: index.md
+  - Об авторе: about.md
+  - Отчёты по лабораторным работам:
+      - Лабораторная 1: labs/lab-1.md
+      - Лабораторная 2: labs/lab-2.md
 
 theme:
-    name: kpn
+    name: material
+
+    features:
+      - navigation.tabs
+      - navigation.sections
+      - content.code.copy

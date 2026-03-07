@@ -1,5 +1,10 @@
-# Group: P3123
-## name: Zinin Petr
+# Об авторе
+### Имя: Зинин Петр Борисович
+- Направление: Нейротехнологии и программирование
+- Группа: P3123
+- Номер ису: 503314 
 
-### Information:
-[github](https://github.com/Igninsan/igninsan.github.io)
+### Полезные данные:
+- telegram: @Igninsan
+- Почта: zp2007@yandex.ru
+- [GitHub](https://github.com/Igninsan)

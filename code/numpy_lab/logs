@@ -1,0 +1,25 @@
+=============================================================================== test session starts ===============================================================================
+platform win32 -- Python 3.13.9, pytest-9.0.2, pluggy-1.6.0 -- C:\Users\User\Documents\GitHub\igninsan.github.io\.venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\User\Documents\GitHub\igninsan.github.io\code\numpy_lab
+collected 17 items
+
+test.py::test_create_vector PASSED                                                                                                                                           [  5%]
+test.py::test_create_matrix PASSED                                                                                                                                           [ 11%]
+test.py::test_reshape_vector PASSED                                                                                                                                          [ 17%]
+test.py::test_vector_add PASSED                                                                                                                                              [ 23%]
+test.py::test_scalar_multiply PASSED                                                                                                                                         [ 29%]
+test.py::test_elementwise_multiply PASSED                                                                                                                                    [ 35%]
+test.py::test_dot_product PASSED                                                                                                                                             [ 41%]
+test.py::test_matrix_multiply PASSED                                                                                                                                         [ 47%]
+test.py::test_matrix_determinant PASSED                                                                                                                                      [ 52%]
+test.py::test_matrix_inverse PASSED                                                                                                                                          [ 58%]
+test.py::test_solve_linear_system PASSED                                                                                                                                     [ 64%]
+test.py::test_load_dataset PASSED                                                                                                                                            [ 70%]
+test.py::test_statistical_analysis PASSED                                                                                                                                    [ 76%]
+test.py::test_normalization PASSED                                                                                                                                           [ 82%]
+test.py::test_plot_histogram PASSED                                                                                                                                          [ 88%]
+test.py::test_plot_heatmap PASSED                                                                                                                                            [ 94%]
+test.py::test_plot_line PASSED                                                                                                                                               [100%]
+
+=============================================================================== 17 passed in 3.91s ================================================================================
