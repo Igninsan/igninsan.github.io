@@ -10,6 +10,10 @@ nav:
       - Лабораторная 3: labs/lab-3.md
       - Лабораторная 4: labs/lab-4.md
       - Лабораторная 5: labs/lab-5.md
+      - Лабораторная 6: labs/lab-6.md
+      - Лабораторная 7: labs/lab-7.md
+      - Лабораторная 8: labs/lab-8.md
+
 
 theme:
     name: material
